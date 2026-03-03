@@ -40,7 +40,7 @@ are reliable and fast to use. One reason we have endless bloat is that we teach
 that all code should expand until it meets all needs. This is wrong,
 empirically, and we should stop teaching it.
 
-- Relationships are very powerful however, with each pair being an unique
+- Relationships are very powerful however, with each pair being a unique
 component, it can be an easy way to accidentally increase the number of archetypes which can cause
 higher churn in systems.
 
@@ -52,3 +52,4 @@ callbacks that fire in surprising order. Which also gets harder to reason about
 and optimize.
 
 ]]
+
